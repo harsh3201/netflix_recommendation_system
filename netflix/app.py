@@ -22,7 +22,7 @@ def get_recommendations(title, cosine_sim):
     result.reset_index(inplace = True)
     return result
 
-netflix_data = pd.read_csv(r'D:\netflix.recommendationsystem\Netflix-Recommendation-System-main\NetflixDataset.csv', encoding='latin-1', index_col='Title')
+netflix_data = pd.read_csv(r'D:\netflix.recommendationsystem\Netflix-Recommendation-System-main\netflix\NetflixDataset.csv', encoding='latin-1', index_col='Title')
 netflix_data.index = netflix_data.index.str.title()
 netflix_data = netflix_data[~netflix_data.index.duplicated()]
 netflix_data.rename(columns={'View Rating':'ViewerRating'}, inplace=True)
