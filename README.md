@@ -16,20 +16,20 @@ Clicking on the Get Started button, the user will see the list of recommendation
 
 ## Recommendation Page
 Here, the user will get poster images of all the recommended movies and series sorted based on their IMDb Scores.
-![](/app/static/screenshots/Screenshot-RecommendationPage1.png)
-![](/app/static/screenshots/Screenshot-RecommendationPage2.png)
+![](/screenshots/Screenshot-RecommendationPage1.png)
+![](/screenshots/Screenshot-RecommendationPage2.png)
 
 Clicking on any poster image, the user will be sent to the Movie Details page for the corresponding title.
 
 ## Movie Detail Page
 Here are the complete details of the user-selected title, including genre, Movie Summary, Languages in which the movie is available, IMDb scores, Directors, Writers, and Actors, among others. Users will also find a link at the end of the page for the Netflix page of the corresponding title. 
-![](/app/static/screenshots/Screenshot-MovieDetailPage1.png)
-![](/app/static/screenshots/Screenshot-MovieDetailPage2.png)
+![](/screenshots/Screenshot-MovieDetailPage1.png)
+![](/screenshots/Screenshot-MovieDetailPage2.png)
 
 ## Netflix Page
 This page is not a part of my web-app but an example of what the user will see as the Netflix Page if they choose to click on the Netflix Link for the title.
 You can log in to your Netflix account and enjoy watching your selected movie or series from our recommendations.
-![](/app/static/screenshots/Screenshot-NetflixPage.png)
+![](/screenshots/Screenshot-NetflixPage.png)
 
 # How To Use
 
